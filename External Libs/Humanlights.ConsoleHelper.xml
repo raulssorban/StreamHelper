@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Humanlights.ConsoleHelper</name>
+    </assembly>
+    <members>
+        <member name="M:Humanlights.ConsoleHelper.ConsoleHandler.ChoiceCancelled">
+            <summary>
+            Use this to check if the user canceled the command, to stop the final process to continue.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
